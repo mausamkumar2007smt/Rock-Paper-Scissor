@@ -1,5 +1,5 @@
 # Rock-Paper-Scissor
-#**About**
+# About
 A fully functional Rock, Paper, Scissors game. Challenge the computer to a match and see if you can beat the odds!
 
 How to Play
